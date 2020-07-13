@@ -1,0 +1,3 @@
+﻿  Colors.cpp
+C:\Users\ASUS\source\repos\Colors\Colors\Colors.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Colors.vcxproj -> C:\Users\ASUS\source\repos\Colors\Debug\Colors.exe
