@@ -1,0 +1,5 @@
+Number of rows: 15
+Number of seats per row: 30
+Default seat price: 10.5
+List of special row prices: 
+List of blocked seats: 
