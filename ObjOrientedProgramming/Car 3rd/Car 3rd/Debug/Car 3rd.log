@@ -1,0 +1,6 @@
+﻿  Car.cpp
+  CarDemo.cpp
+C:\Users\ASUS\source\repos\Car 3rd\Car 3rd\CarDemo.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Car 3rd\Car 3rd\CarDemo.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Car 3rd.vcxproj -> C:\Users\ASUS\source\repos\Car 3rd\Debug\Car 3rd.exe
