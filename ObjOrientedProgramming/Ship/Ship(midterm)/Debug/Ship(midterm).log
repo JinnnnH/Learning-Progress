@@ -1,0 +1,8 @@
+﻿  Ship(midterm).cpp
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\Ship.h(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\Ship.h(76,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\Ferry.h(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\Ferry.h(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\NavyShip.h(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ship(midterm)\Ship(midterm)\NavyShip.h(126,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ship(midterm).vcxproj -> C:\Users\ASUS\source\repos\Ship(midterm)\Debug\Ship(midterm).exe
