@@ -1,0 +1,4 @@
+﻿  TicketDemo.cpp
+C:\Users\ASUS\source\repos\Ticket\Ticket\TicketDemo.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\Ticket\Ticket\TicketDemo.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+  Ticket.vcxproj -> C:\Users\ASUS\source\repos\Ticket\Debug\Ticket.exe
