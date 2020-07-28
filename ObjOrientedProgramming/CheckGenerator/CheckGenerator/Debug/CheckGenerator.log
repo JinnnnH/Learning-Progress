@@ -1,0 +1,6 @@
+﻿  CheckGenerator.cpp
+C:\Users\ASUS\source\repos\CheckGenerator\CheckGenerator\Check.h(114,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\CheckGenerator\CheckGenerator\Check.h(127,39): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\CheckGenerator\CheckGenerator\Check.h(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\CheckGenerator\CheckGenerator\CheckGenerator.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+  CheckGenerator.vcxproj -> C:\Users\ASUS\source\repos\CheckGenerator\Debug\CheckGenerator.exe
