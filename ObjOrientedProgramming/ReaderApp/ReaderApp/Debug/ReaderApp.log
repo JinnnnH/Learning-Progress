@@ -1,0 +1,3 @@
+﻿  AppDemo.cpp
+C:\Users\ASUS\source\repos\ReaderApp\ReaderApp\AppDemo.cpp(25,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  ReaderApp.vcxproj -> C:\Users\ASUS\source\repos\ReaderApp\Debug\ReaderApp.exe
