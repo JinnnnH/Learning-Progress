@@ -1,0 +1,16 @@
+﻿  VideoStoreInformationSystem.cpp
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(44,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(93,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(190,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(369,37): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(377,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(432,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(502,38): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(510,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem\VideoStoreInformationSystem\VideoStoreInformationSystem.cpp(565,25): warning C4018: '<': signed/unsigned mismatch
+  VideoStoreInformationSystem.vcxproj -> C:\Users\ASUS\source\repos\VideoStoreInformationSystem\Debug\VideoStoreInformationSystem.exe
