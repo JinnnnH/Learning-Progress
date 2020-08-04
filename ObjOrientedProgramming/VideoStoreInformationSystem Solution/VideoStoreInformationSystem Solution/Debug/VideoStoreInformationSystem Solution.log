@@ -1,0 +1,6 @@
+﻿  VideoStoreInformationSystem Solution.cpp
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution.cpp(39,28): warning C4101: 'count': unreferenced local variable
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution.cpp(493,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution.cpp(501,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution\VideoStoreInformationSystem Solution.cpp(509,21): warning C4018: '<': signed/unsigned mismatch
+  VideoStoreInformationSystem Solution.vcxproj -> C:\Users\ASUS\source\repos\VideoStoreInformationSystem Solution\Debug\VideoStoreInformationSystem Solution.exe
